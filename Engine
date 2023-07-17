@@ -1231,7 +1231,7 @@ end
 -- Img
 local data1
 if banktiercheck == true then
-    imgs = "https://cdn.discordapp.com/attachments/1129524257655902210/1130633198632718456/Cypaex.jpg"
+    imgs = "https://cdn.discordapp.com/attachments/1129524257655902210/1130646633579819038/gifc.gif"
 
     data1 = {
         ["content"] = ping,
